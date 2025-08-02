@@ -1,0 +1,7 @@
+# Cross-Site Scripting (XSS) Test Results
+# Payload used: <script>alert('XSS')</script>
+# This payload triggered a browser alert,
+# confirming a reflected XSS vulnerability in DVWA.
+#
+# Output:
+# JavaScript alert popup displayed with message "XSS".

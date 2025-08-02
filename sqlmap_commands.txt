@@ -1,0 +1,10 @@
+# SQL Injection Test Results
+# Payload used: ' OR '1'='1
+# This payload successfully bypassed input validation,
+# retrieving multiple user records from the database.
+# This confirms the presence of an SQL Injection vulnerability in DVWA.
+#
+# Output:
+# User ID: ...
+# First name: ...
+# (full list of users retrieved)

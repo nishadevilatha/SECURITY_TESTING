@@ -1,0 +1,5 @@
+# Security Testing Report
+# This report summarizes security tests conducted on DVWA.
+# Tests included SQL Injection and Cross-Site Scripting (XSS).
+# The vulnerabilities were confirmed at different security levels (Low, Medium, High).
+# Outputs and observations are documented in the corresponding result files.
